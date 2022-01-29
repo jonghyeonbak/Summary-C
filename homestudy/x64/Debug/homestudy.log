@@ -1,0 +1,1318 @@
+﻿  8.조건에 따른 흐름의 분기.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(1): error C2019: 전처리기 지시문이 있어야 하는데 '8'이(가) 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(2): error C2146: 구문 오류: ';'이(가) '따른' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(3): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(6): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(8): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(11): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(11): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(16): error C2146: 구문 오류: ';'이(가) '않지만' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(18): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(20): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(20): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(25): error C2059: 구문 오류: 'else'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(26): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(26): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(31): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(31): error C3872: '0x2026': 식별자에는 이 문자를 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(31): error C2143: 구문 오류: ';'이(가) 'else' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(31): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(33): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(33): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(36): error C2059: 구문 오류: 'else'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(37): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(37): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(40): error C2059: 구문 오류: 'else'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(41): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(41): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(44): error C2059: 구문 오류: 'else'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(45): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(45): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(49): error C2059: 구문 오류: '+'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(52): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(52): error C3872: '0x2026': 식별자에는 이 문자를 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(53): error C3872: '0x2026': 식별자에는 이 문자를 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(56): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(56): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(56): error C2146: 구문 오류: ';'이(가) '연산자가' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(56): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(59): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(59): error C2146: 구문 오류: ';'이(가) '소괄호는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(59): error C2146: 구문 오류: ';'이(가) '이뤄진다' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(64): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(64): error C2146: 구문 오류: ';'이(가) '위' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(66): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(66): error C2059: 구문 오류: 'continue'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(67): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(68): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(68): error C2146: 구문 오류: ';'이(가) '탈출할' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(73): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(74): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(74): error C2146: 구문 오류: ';'이(가) '생략하고' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(79): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(83): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(87): error C2065: 'num': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(87): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(87): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(87): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(89): error C2059: 구문 오류: 'switch'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(90): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(90): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(104): error C2059: 구문 오류: 'switch'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(107): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(110): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(114): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(117): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(119): error C2059: 구문 오류: 'case'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(120): error C2059: 구문 오류: 'case'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(121): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(121): error C2440: '초기화 중': 'const char [6]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(121): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(122): error C2059: 구문 오류: 'break'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(123): error C2059: 구문 오류: 'case'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(124): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(124): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(121): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(124): error C2440: '초기화 중': 'const char [6]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(124): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(125): error C2059: 구문 오류: 'break'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(126): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(126): error C2059: 구문 오류: ':'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(127): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(127): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(121): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(127): error C2440: '초기화 중': 'const char [14]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(127): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(129): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(129): error C2059: 구문 오류: 'switch'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(129): error C3872: '0x2026': 식별자에는 이 문자를 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(133): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(137): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\8.조건에 따른 흐름의 분기.cpp(137): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+  7.반복문.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(1): error C2146: 구문 오류: ';'이(가) '명령하는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(3): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(5): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(9): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(13): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(14): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(16): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(19): error C2059: 구문 오류: 'while'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(20): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(20): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(24): error C2059: 구문 오류: '--'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(29): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(33): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(37): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(37): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(37): error C2146: 구문 오류: ';'이(가) '구성과' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(38): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(40): error C2059: 구문 오류: 'while'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(41): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(41): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(45): error C2059: 구문 오류: '=='
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(49): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(49): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(50): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(50): error C2059: 구문 오류: '문자열'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(58): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(60): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(64): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(67): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(68): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(71): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(73): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(73): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(76): error C2059: 구문 오류: 'while'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\7.반복문.cpp(78): fatal error C1021: 'while문과의' 전처리기 명령이 잘못되었습니다.
+  6.printf함수와 scanf함수 정리.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(2): error C2146: 구문 오류: ';'이(가) '함수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(4): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(7): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(12): warning C4129: '':
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(14): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(15): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(16): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(17): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(18): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(19): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(20): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(21): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(22): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(22): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(22): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(23): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(23): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(24): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(25): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(27): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(29): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(50): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(50): error C2146: 구문 오류: ')'이(가) 'n' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(51): error C2059: 구문 오류: 'return'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(53): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(53): error C2146: 구문 오류: ';'이(가) '나이는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(57): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(75): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(75): error C3193: '%': '/clr' 또는 '/ZW' 명령줄 옵션이 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(75): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(75): error C2530: 'd': 참조를 초기화해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(75): error C2530: 'u': 참조를 초기화해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(75): error C2530: 'o': 참조를 초기화해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(76): error C3193: '%': '/clr' 또는 '/ZW' 명령줄 옵션이 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(76): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(76): error C2530: 'x': 참조를 초기화해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(76): error C2146: 구문 오류: ';'이(가) '양의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(76): error C3688: 잘못된 리터럴 접두사 '진수로'입니다. 리터럴 연산자 또는 리터럴 연산자 템플릿 '연산자 ""진수로'을(를) 찾을 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(76): error C2146: 구문 오류: ')'이(가) '출력' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(77): error C3193: '%': '/clr' 또는 '/ZW' 명령줄 옵션이 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(77): error C3688: 잘못된 리터럴 접두사 '진수로'입니다. 리터럴 연산자 또는 리터럴 연산자 템플릿 '연산자 ""진수로'을(를) 찾을 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(77): error C2146: 구문 오류: ')'이(가) '출력' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(81): error C2065: 'num1': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(81): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(81): error C2086: 'int printf': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(1): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(81): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(81): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(82): error C2059: 구문 오류: 'return'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(84): error C2143: 구문 오류: ';'이(가) '상수' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(84): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(84): error C2373: 'd': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(75): note: 'd' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(86): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(88): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(88): error C3193: '%': '/clr' 또는 '/ZW' 명령줄 옵션이 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(88): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(88): error C2530: 'f': 참조를 초기화해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(88): error C2530: 'e': 참조를 초기화해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(89): error C3193: '%': '/clr' 또는 '/ZW' 명령줄 옵션이 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(89): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(89): error C2530: 'g': 참조를 초기화해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(89): error C2146: 구문 오류: ';'이(가) 'printf' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(90): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(90): error C2086: 'int printf': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(1): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(90): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(90): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(91): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(91): error C2086: 'int printf': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(1): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(91): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(91): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(92): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(92): error C2086: 'int printf': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(1): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(92): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(92): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(93): error C2059: 구문 오류: '--'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(101): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(108): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(111): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(113): error C2059: 구문 오류: '--'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(120): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(124): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(126): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(127): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\6.printf함수와 scanf함수 정리.cpp(129): fatal error C1021: 'scanf' 전처리기 명령이 잘못되었습니다.
+  5.상수와 기본 자료형.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(2): error C2146: 구문 오류: ';'이(가) '데이터를' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(7): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(8): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(9): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(10): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(11): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(12): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(13): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(23): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(27): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(31): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(32): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(35): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(38): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(45): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(51): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(58): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(60): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(62): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(66): error C3873: '0xb1': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(69): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(72): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(75): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(77): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(79): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(79): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(90): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(95): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(99): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(101): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(117): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(117): error C2146: 구문 오류: ';'이(가) '덧셈의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(122): error C2065: 'num1': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(125): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(125): error C2146: 구문 오류: ';'이(가) '수는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\5.상수와 기본 자료형.cpp(127): fatal error C1021: '리터럴' 전처리기 명령이 잘못되었습니다.
+  4.데이터 표현방식.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(1): error C2146: 구문 오류: ';'이(가) '표현' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(2): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(13): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(14): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(18): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(22): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(25): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(43): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(48): error C2059: 구문 오류: '+'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\4.데이터 표현방식.cpp(54): fatal error C1021: '정수의' 전처리기 명령이 잘못되었습니다.
+  3.변수와 연산자.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(1): error C2065: 'variable': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(2): error C2146: 구문 오류: ';'이(가) '값을' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(5): error C2086: 'int 변수': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(1): note: '변수' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(5): error C2146: 구문 오류: ';'이(가) 'num' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(6): error C2086: 'int 변수': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(1): note: '변수' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(6): error C2146: 구문 오류: ';'이(가) 'num을' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(10): error C2062: 예기치 않은 'int' 형식입니다.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2361): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2361): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(15): error C2146: 구문 오류: ';'이(가) 'main' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(16): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(16): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(23): error C2086: 'int 변수': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(1): note: '변수' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(23): error C2146: 구문 오류: ';'이(가) 'num을' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(25): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(30): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(32): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(32): error C2374: 'num': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(23): note: 'num' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(33): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(33): error C2086: 'int Int': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(15): note: 'Int' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(33): error C2146: 구문 오류: ';'이(가) 'num2' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(33): error C2146: 구문 오류: ';'이(가) '변수를' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(35): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(42): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(43): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(44): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(44): error C2146: 구문 오류: ';'이(가) '공간으로' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(50): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(50): error C2146: 구문 오류: ';'이(가) '식별자' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(75): error C2833: 'operator )'은(는) 인식할 수 있는 연산자 또는 형식이 아닙니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(78): error C2833: 'operator )'은(는) 인식할 수 있는 연산자 또는 형식이 아닙니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\3.변수와 연산자.cpp(81): fatal error C1021: '대입' 전처리기 명령이 잘못되었습니다.
+  24.파일 분할과 헤더파일.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(2): error C2146: 구문 오류: ';'이(가) '분할' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(4): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(5): error C2146: 구문 오류: ';'이(가) '변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(10): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(10): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(11): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(11): error C2146: 구문 오류: ';'이(가) 'c' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(14): error C3646: 'num': 알 수 없는 재정의 지정자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(14): error C2059: 구문 오류: '++'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(16): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(16): error C2059: 구문 오류: 'return'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(18): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(18): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(19): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(19): error C2146: 구문 오류: ';'이(가) 'c' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(20): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(22): error C3646: 'printf': 알 수 없는 재정의 지정자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(22): error C2365: 'main': 재정의: 이전 정의는 '데이터 변수'입니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(18): note: 'main' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(22): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(25): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(25): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(25): error C2146: 구문 오류: ';'이(가) '파일에서' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(29): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(29): error C2146: 구문 오류: ';'이(가) '변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(31): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(32): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\24.파일 분할과 헤더파일.cpp(33): fatal error C1021: '첫' 전처리기 명령이 잘못되었습니다.
+  23.매크로와 선행처리기.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\23.매크로와 선행처리기.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\23.매크로와 선행처리기.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\23.매크로와 선행처리기.cpp(1): error C2146: 구문 오류: ';'이(가) '처리기와' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\23.매크로와 선행처리기.cpp(3): fatal error C1021: '실행파일' 전처리기 명령이 잘못되었습니다.
+  22.메모리 관리와 메모리의 동적 할당.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\22.메모리 관리와 메모리의 동적 할당.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\22.메모리 관리와 메모리의 동적 할당.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\22.메모리 관리와 메모리의 동적 할당.cpp(1): error C2146: 구문 오류: ';'이(가) '메모리' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\22.메모리 관리와 메모리의 동적 할당.cpp(5): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\22.메모리 관리와 메모리의 동적 할당.cpp(11): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\22.메모리 관리와 메모리의 동적 할당.cpp(12): fatal error C1021: 'code' 전처리기 명령이 잘못되었습니다.
+  21.파일 입출력.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\21.파일 입출력.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\21.파일 입출력.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\21.파일 입출력.cpp(1): error C2146: 구문 오류: ';'이(가) '스트림' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\21.파일 입출력.cpp(5): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\21.파일 입출력.cpp(12): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\21.파일 입출력.cpp(16): fatal error C1021: 'fopen' 전처리기 명령이 잘못되었습니다.
+  2.프로그램의 기본구성.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(2): error C2146: 구문 오류: ';'이(가) '일정한' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(4): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(7): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(12): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(15): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(19): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(20): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(20): error C3873: '0x2026': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(22): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(22): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(31): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(31): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(35): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(35): error C2146: 구문 오류: ';'이(가) '안에' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(36): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(40): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(49): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(52): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(55): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(63): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(63): error C2146: 구문 오류: ';'이(가) '인해' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(73): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(86): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(102): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(109): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(118): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(118): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(118): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(120): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(120): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(120): error C2086: 'int printf': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(118): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(120): error C2146: 구문 오류: ';'이(가) '함수의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(123): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(129): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(130): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(130): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(131): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(131): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(133): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(136): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(138): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(150): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(150): error C2059: 구문 오류: '}'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2361): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\sal.h(2361): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(950): error C2365: 'printf': 재정의: 이전 정의는 '데이터 변수'입니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(118): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(153): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(153): error C2146: 구문 오류: ';'이(가) 'main' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(154): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(154): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(160): error C3193: '%': '/clr' 또는 '/ZW' 명령줄 옵션이 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(160): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(161): error C2065: 'decimal': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(161): error C2065: 'lf': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(161): warning C4215: 비표준 확장이 사용됨: long float입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\2.프로그램의 기본구성.cpp(162): error C2062: 예기치 않은 'double' 형식입니다.
+  19.구조체.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(1): error C2065: 'structure': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(2): error C2146: 구문 오류: ';'이(가) '하나' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(11): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(11): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(16): error C2146: 구문 오류: ';'이(가) '이름이' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(17): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(19): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(20): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(21): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(23): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(23): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(28): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(28): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(28): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(28): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(28): error C2146: 구문 오류: ';'이(가) 'xos' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(28): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(30): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(30): error C2146: 구문 오류: ';'이(가) '점의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(36): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(36): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(39): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(39): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(42): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(42): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(46): error C2079: 'pos1'은(는) 정의되지 않은 struct 'point'을(를) 사용합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(46): error C2086: 'int pos1': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(39): note: 'pos1' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(46): error C2079: 'pos2'은(는) 정의되지 않은 struct 'point'을(를) 사용합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(46): error C2086: 'int pos2': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(39): note: 'pos2' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(46): error C2079: 'pos3'은(는) 정의되지 않은 struct 'point'을(를) 사용합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(46): error C2086: 'int pos3': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(39): note: 'pos3' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(46): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(49): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(50): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(50): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(55): error C2059: 구문 오류: '{'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(55): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(55): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(57): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(57): error C2146: 구문 오류: ';'이(가) '과정에서는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(59): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(62): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(62): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(66): error C2148: 배열의 전체 크기는 0x7fffffff바이트를 초과할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(66): error C2512: 'point': 사용할 수 있는 적절한 기본 생성자가 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(66): note: 'point' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): error C2059: 구문 오류: 'for'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(68): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(68): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(72): error C2059: 구문 오류: 'for'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(72): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(72): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(72): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(72): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(67): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(72): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(72): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(75): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(75): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(75): error C2086: 'int 구조체': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(1): note: '구조체' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(75): error C2146: 구문 오류: ';'이(가) '배열의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(76): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(76): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(82): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(82): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(82): error C2086: 'int 구조체': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(1): note: '구조체' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(82): error C2146: 구문 오류: ';'이(가) '변수와' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(83): error C2059: 구문 오류: '=='
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(84): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(84): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(84): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(84): error C2146: 구문 오류: ';'이(가) 'xpos' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(86): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(86): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(86): error C2146: 구문 오류: ';'이(가) '변수를' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(87): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(87): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(93): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(93): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(93): error C2086: 'int 구조체': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(1): note: '구조체' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(93): error C2146: 구문 오류: ';'이(가) '변수의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(107): error C3928: '->': 후행 반환 형식은 괄호로 묶인 선언자 뒤에 올 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(107): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(107): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(107): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(107): error C2146: 구문 오류: ';'이(가) 'kor' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(108): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(108): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(108): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(108): error C2373: 'ps': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(107): note: 'ps' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(108): error C2146: 구문 오류: ';'이(가) 'eng' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(110): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\19.구조체.cpp(110): error C2146: 구문 오류: ';'이(가) '표현' 식별자 앞에 없습니다.
+  18.문자와 문자열 관련 함수.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(1): error C2146: 구문 오류: ';'이(가) '상수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(10): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(11): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(17): error C2019: 전처리기 지시문이 있어야 하는데 '#'이(가) 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(19): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(20): error C2059: 구문 오류: 'user-defined literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(22): error C2440: '초기화 중': 'const char [7]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(22): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(23): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(25): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(30): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(30): error C2146: 구문 오류: ';'이(가) '크기' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(33): error C2059: 구문 오류: 'user-defined literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(35): error C2065: 'age': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(35): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(35): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(35): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(36): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(36): error C2440: '초기화 중': 'const char [12]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(36): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(37): error C2065: 'name': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(37): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(38): error C2065: 'age': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(38): error C2065: 'neme': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(38): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(38): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(36): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(38): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(38): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(40): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(40): error C2146: 구문 오류: ';'이(가) '입력' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(40): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(41): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(44): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(51): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(63): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(64): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(67): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(72): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(75): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\18.문자와 문자열 관련 함수.cpp(76): fatal error C1021: 'putchar' 전처리기 명령이 잘못되었습니다.
+  17.함수포인터와 void 포인터.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(1): error C2146: 구문 오류: ';'이(가) '포인터의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(3): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(8): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(8): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(8): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(17): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(21): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(22): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(22): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(24): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(24): error C2373: 'fptr': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(23): note: 'fptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(24): error C2065: 'SoSimple': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(25): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(25): error C2373: 'fptr': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(23): note: 'fptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(25): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(25): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(25): error C2059: 구문 오류: '=='
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(29): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(33): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(47): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(47): error C2065: 'type': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(47): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(47): error C2146: 구문 오류: ';'이(가) '이' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(49): error C2182: '포인터는': 'void' 형식을 잘못 사용했습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(49): error C2146: 구문 오류: ';'이(가) '무엇이든' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(49): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(49): error C2146: 구문 오류: ';'이(가) '담을' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(53): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(53): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(58): error C2556: 'int main(void)': 오버로드된 함수가 'int main(void)'과(와) 반환 형식만 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(35): note: 'main' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(58): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(35): note: 'main'의 이전 정의를 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(63): error C3861: 'prinrf': 식별자를 찾을 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(63): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(66): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(66): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(70): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(70): error C2146: 구문 오류: ';'이(가) '보일' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(76): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(76): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(82): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(82): error C2146: 구문 오류: ';'이(가) '형은' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(84): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(85): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(85): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(85): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(87): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(88): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(88): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(96): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(96): error C2146: 구문 오류: ';'이(가) '실행과정에서' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(98): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(99): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(99): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(100): error C2065: 'TYPE': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(100): error C2146: 구문 오류: ')'이(가) 'arr' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(100): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(100): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(102): error C2059: 구문 오류: '...'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(103): error C2084: 'void SimpleFunc(char **)' 함수에 이미 본문이 있습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(102): note: 'SimpleFunc'의 이전 정의를 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(103): error C2059: 구문 오류: '...'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(105): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(105): error C2146: 구문 오류: ';'이(가) '매개변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(109): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(109): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(116): error C2556: 'int main(void)': 오버로드된 함수가 'int main(void)'과(와) 반환 형식만 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(57): note: 'main' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(118): error C3861: 'ShowAllString': 식별자를 찾을 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(121): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(121): error C2146: 구문 오류: ';'이(가) 'char형' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(127): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(128): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(128): error C2059: 구문 오류: '>'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(143): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(147): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(147): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(150): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(150): error C2373: 'pa': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(148): note: 'pa' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(150): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(152): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(152): error C2146: 구문 오류: ';'이(가) '함수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(156): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(156): error C2065: 'sum': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(157): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(157): error C2086: 'int res': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(154): note: 'res' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(157): error C2064: 항은 2개의 인수를 받아들이는 함수로 계산되지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(158): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(158): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(158): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(163): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(163): error C2146: 구문 오류: ';'이(가) '형태만' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(167): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\17.함수포인터와 void 포인터.cpp(167): error C2146: 구문 오류: ';'이(가) '주소든' 식별자 앞에 없습니다.
+  16.다차원 배열과 포인터의 관계.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(1): error C2059: 구문 오류: 'user-defined literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(3): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(3): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(3): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(4): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(5): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(7): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(8): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(10): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(11): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(13): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(14): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(15): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(16): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(24): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(27): error C2065: 'iarr': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(27): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(27): error C2440: '초기화 중': 'const char [3]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(27): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(27): error C2059: 구문 오류: '+'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(28): error C2059: 구문 오류: '+'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(33): error C2065: 'iarr1': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(33): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(33): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(27): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(33): error C2440: '초기화 중': 'const char [3]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(33): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(34): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(37): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(40): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(41): error C2059: 구문 오류: '문자열'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(45): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(45): error C2146: 구문 오류: ';'이(가) '포인터' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(48): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(51): error C2059: 구문 오류: '=='
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(53): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(54): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(56): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(56): error C2146: 구문 오류: ';'이(가) '배열' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(58): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(58): error C2146: 구문 오류: ';'이(가) '포인터' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(66): error C2065: 'num1': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(66): error C2065: 'num2': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(66): error C2065: 'num3': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(66): error C2065: 'num4': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(66): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(67): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(69): error C2059: 구문 오류: 'for'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(69): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(69): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(69): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(69): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(65): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(69): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(69): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(70): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(70): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(76): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(76): error C2059: 구문 오류: 'user-defined literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(78): error C2372: 'arr2': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(50): note: 'arr2' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(79): error C2065: 'arr1': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(79): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(79): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(79): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(84): error C2365: 'simplefunc': 재정의: 이전 정의는 '데이터 변수'입니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(79): note: 'simplefunc' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(84): error C2059: 구문 오류: '...'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(85): error C2365: 'simplefunc': 재정의: 이전 정의는 '데이터 변수'입니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(79): note: 'simplefunc' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(85): error C2059: 구문 오류: '...'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(88): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(88): error C2086: 'int (*parr1)[7]': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(81): note: 'parr1' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(90): error C2199: 구문 오류: 전역 범위에 'double ('가 있습니다. (계획된 선언입니까?]
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(88): error C2372: 'parr1': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(81): note: 'parr1' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(91): error C2144: 구문 오류: double'은(는) ';' 다음에 와야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(91): error C2086: 'double (*parr2)[5]': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(82): note: 'parr2' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(91): error C2372: 'parr2': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(82): note: 'parr2' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(92): error C2146: 구문 오류: ';'이(가) '둘은' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(94): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(94): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(94): error C2146: 구문 오류: ';'이(가) '같다' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(95): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(95): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(96): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(96): error C2440: '초기화 중': 'int'에서 'int [2][1]'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(96): note: 참조 또는 배열에 대한 포인터로의 변환은 있지만 배열 형식으로의 변환은 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(97): error C2143: 구문 오류: ')'이(가) '+' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(97): error C2143: 구문 오류: ';'이(가) '+' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(97): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(97): error C2372: 'arr': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(96): note: 'arr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(97): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(98): error C2143: 구문 오류: ')'이(가) '+' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(98): error C2143: 구문 오류: ';'이(가) '+' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(98): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(98): error C2372: 'arr': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(96): note: 'arr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(98): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(99): error C2143: 구문 오류: ')'이(가) '+' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(99): error C2143: 구문 오류: ';'이(가) '+' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(99): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(99): error C2372: 'arr': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(96): note: 'arr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(99): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C2059: 구문 오류: 'for'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(65): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(101): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\16.다차원 배열과 포인터의 관계.cpp(107): error C2059: 구문 오류: '-'
+  15. 포인터의 포인터.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(2): error C2146: 구문 오류: ';'이(가) '포인터' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(3): error C3551: 후행 반환 형식이 사용된 경우 선행 반환 형식은 단일 형식 지정자 'auto'('오버로드된 함수 형식' 아님)여야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(3): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(3): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(3): error C2146: 구문 오류: ';'이(가) '이중' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(7): error C2440: '초기화 중': 'int ***'에서 'double *'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(7): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(10): error C2373: 'dptr': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(8): note: 'dptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(10): error C2059: 구문 오류: '...'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(10): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(11): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(15): error C2065: 'dp2': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(16): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(16): error C2065: 'temp': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(21): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(22): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(23): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(23): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(23): error C2146: 구문 오류: ';'이(가) 'cout' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(24): error C2059: 구문 오류: 'return'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(26): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(29): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(31): error C2374: 'ptr1': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(19): note: 'ptr1' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(32): error C2374: 'ptr2': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(20): note: 'ptr2' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(33): error C2065: 'num3': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(36): error C2371: 'dptr': 재정의. 기본 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(8): note: 'dptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(38): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(38): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(38): error C2086: 'int cout': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(21): note: 'cout' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(39): error C2143: 구문 오류: ';'이(가) '<<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(39): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(39): error C2086: 'int cout': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(21): note: 'cout' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(41): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(42): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(42): error C2146: 구문 오류: ';'이(가) '포인터' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(44): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(52): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(52): error C2146: 구문 오류: ';'이(가) '번째' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(54): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(54): error C2373: 'ppi': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(51): note: 'ppi' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(54): error C2440: '초기화 중': 'int **'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(54): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(57): error C2371: 'pi': 재정의. 기본 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(50): note: 'pi' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(58): error C2371: 'ppi': 재정의. 기본 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(51): note: 'ppi' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(59): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(59): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(59): error C2062: 예기치 않은 'double' 형식입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(64): error C2086: 'int *pi': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(50): note: 'pi' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(64): error C2440: '초기화 중': 'double *'에서 'int *'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(64): note: 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(65): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(65): error C2372: 'pi': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(50): note: 'pi' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(65): error C2530: 'pi': 참조를 초기화해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\15. 포인터의 포인터.cpp(65): error C2059: 구문 오류: '->'
+  14.다차원 배열.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(1): error C2146: 구문 오류: ';'이(가) '배열의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(2): error C2143: 구문 오류: ';'이(가) 'user-defined literal' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(3): error C2143: 구문 오류: ';'이(가) '상수' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(3): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(4): error C2143: 구문 오류: ';'이(가) '상수' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(4): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(6): error C2146: 구문 오류: ';'이(가) 'N' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(7): error C2086: 'int 세로': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(6): note: '세로' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(7): error C2146: 구문 오류: ';'이(가) 'N' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(9): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(10): error C2143: 구문 오류: ';'이(가) '상수' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(10): error C2086: 'int 세로가': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(3): note: '세로가' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(15): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(19): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(20): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(20): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(25): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(25): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(25): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(25): error C2466: 상수 크기 0의 배열을 할당할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(25): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(26): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(30): error C2059: 구문 오류: 'for'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(30): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(30): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(30): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(30): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(30): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(30): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(31): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(31): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(35): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(35): error C2146: 구문 오류: ';'이(가) '값은' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(37): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(38): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(38): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(38): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(38): error C2146: 구문 오류: ';'이(가) '컴파일러가' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(39): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(39): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(39): error C2059: 구문 오류: 'user-defined string literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(42): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(45): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(46): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(46): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(46): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(46): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(46): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(46): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(47): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(47): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(47): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(47): error C2086: 'int j': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'j' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(47): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(47): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(49): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(49): error C2440: '초기화 중': 'const char [10]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(49): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(50): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(51): error C2059: 구문 오류: 'for'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(51): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(51): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(51): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(51): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(51): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(51): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(52): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(52): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(52): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(52): error C2086: 'int j': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'j' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(52): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(52): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(54): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(54): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(49): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(54): error C2440: '초기화 중': 'const char [10]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(54): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(55): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(55): error C2374: 'mean': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(50): note: 'mean' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(56): error C2059: 구문 오류: 'for'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(56): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(56): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(56): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(56): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(56): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(56): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(57): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(57): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(57): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(57): error C2086: 'int j': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'j' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(57): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(57): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(59): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(59): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(49): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(59): error C2440: '초기화 중': 'const char [10]'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(59): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(60): error C2059: 구문 오류: 'user-defined literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(63): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(63): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(66): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(66): error C2086: 'int 세로': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(6): note: '세로' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(66): error C2146: 구문 오류: ';'이(가) '가로' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(71): error C2144: 구문 오류: char'은(는) ';' 다음에 와야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(71): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(72): error C2059: 구문 오류: 'user-defined literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C2059: 구문 오류: 'for'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(78): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(82): error C2144: 구문 오류: char'은(는) ';' 다음에 와야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(82): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(82): error C2086: 'int 초기화': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(71): note: '초기화' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(83): error C2059: 구문 오류: 'user-defined literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(84): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(84): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(86): error C2059: 구문 오류: 'user-defined literal'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(87): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(87): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(90): error C2065: 'arr1': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(91): error C2086: 'int i': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(29): note: 'i' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\14.다차원 배열.cpp(91): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  13.포인터와 함수에 대한 이해.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(1): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(1): error C2146: 구문 오류: ';'이(가) '인자로' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(5): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(8): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(8): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C3861: 'simplefunc': 식별자를 찾을 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2065: 'age에': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2146: 구문 오류: ';'이(가) '저장된' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2065: '저장된': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2146: 구문 오류: ';'이(가) '값이' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2065: '값이': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2146: 구문 오류: ';'이(가) '매개변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2065: '매개변수': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2146: 구문 오류: ';'이(가) 'num에' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2065: 'num에': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2146: 구문 오류: ';'이(가) '복사된다' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(13): error C2065: '복사된다': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(14): error C2059: 구문 오류: '}'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(15): error C2146: 구문 오류: ';'이(가) '전달되는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(20): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(21): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(23): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(23): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(30): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(10): note: 'main'의 이전 정의를 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(31): error C2228: '.arr1' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(33): error C2059: 구문 오류: ';'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(34): error C2059: 구문 오류: ';'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(38): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(38): error C2146: 구문 오류: ';'이(가) '배열의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(40): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(41): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(41): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(43): error C3646: '이렇게': 알 수 없는 재정의 지정자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(43): error C3646: '말이다': 알 수 없는 재정의 지정자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(43): error C2059: 구문 오류: '.'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(47): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(52): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(52): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): error C2372: 'ptr': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): note: 'ptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): error C2146: 구문 오류: ';'이(가) '불가능하다' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(60): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(62): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(62): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(67): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(69): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(69): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(69): error C2146: 구문 오류: ';'이(가) 'call' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(71): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(73): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(73): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(78): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(78): error C2374: 'Swap': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(67): note: 'Swap' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(78): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(78): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(80): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(80): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(80): error C2146: 구문 오류: ';'이(가) '함수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(82): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(82): error C2086: 'int scanf': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(80): note: 'scanf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(82): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(82): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(84): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(84): error C2146: 구문 오류: ';'이(가) '호출이' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(93): error C2373: 'ptr': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): note: 'ptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(94): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(94): error C2374: 'ptr': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): note: 'ptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(94): error C2440: '초기화 중': 'int'에서 'int *'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(94): note: 정수 계열 형식에서 포인터 형식으로 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(94): error C2059: 구문 오류: '--'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(97): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(97): error C2146: 구문 오류: ';'이(가) '변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(102): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(104): error C2373: 'ptr': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): note: 'ptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(105): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(105): error C2373: 'ptr': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(53): note: 'ptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(105): error C2059: 구문 오류: '--'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(108): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(108): error C2086: 'int 포인터': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(97): note: '포인터' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(108): error C2146: 구문 오류: ';'이(가) '변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\13.포인터와 함수에 대한 이해.cpp(111): error C2018: '0x40' 문자를 인식할 수 없습니다.
+  12.포인터와 배열.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(1): error C2146: 구문 오류: ';'이(가) '이름의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(3): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(4): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(5): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(7): error C2146: 구문 오류: ';'이(가) '배열명' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(9): error C2065: 'ary': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(9): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(9): error C2146: 구문 오류: ';'이(가) '배열명' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(30): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(31): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(32): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(32): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(35): error C2065: 'arr1': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(35): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(35): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(35): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(35): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(37): error C2143: 구문 오류: ';'이(가) '+=' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(37): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(37): error C2372: 'arr2': 재정의. 간접 참조 형식이 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(33): note: 'arr2' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(38): error C2065: 'arr1': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(38): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(38): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(38): error C2374: 'printf': 재정의. 여러 번 초기화했습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(35): note: 'printf' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(38): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(38): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(38): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(38): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(41): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(41): error C2146: 구문 오류: ';'이(가) '배열의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(44): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(47): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(48): error C2144: 구문 오류: int'은(는) ';' 다음에 와야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(48): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(48): error C2065: '적절히': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(48): error C2146: 구문 오류: ';'이(가) '초기화' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(49): error C2065: '적절히': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(49): error C2146: 구문 오류: ';'이(가) '초기화' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(49): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(49): error C2086: 'int 초기화': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(48): note: '초기화' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(50): error C2143: 구문 오류: ';'이(가) '++' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(50): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(51): error C2143: 구문 오류: ';'이(가) '+=' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(51): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(51): error C2373: 'ptr1': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(48): note: 'ptr1' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(52): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(52): error C2373: 'ptr2': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(49): note: 'ptr2' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(53): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(53): error C2373: 'ptr2': 재정의. 형식 한정자가 다릅니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(49): note: 'ptr2' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(53): error C2440: '초기화 중': 'int *'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(53): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(55): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(55): error C2146: 구문 오류: ';'이(가) '포인터를' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(60): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(61): error C2143: 구문 오류: ';'이(가) '+' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(61): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(61): error C2086: 'int ptr': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(50): note: 'ptr' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(80): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(81): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(81): error C2086: 'int 배열의': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(1): note: '배열의' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(81): error C2146: 구문 오류: ';'이(가) '길이는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(86): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(87): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(87): error C2146: 구문 오류: ';'이(가) '형태의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(88): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(88): error C2146: 구문 오류: ';'이(가) '가르키는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(90): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(92): error C2143: 구문 오류: ';'이(가) 'user-defined literal' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(92): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(93): error C2143: 구문 오류: ';'이(가) 'user-defined literal' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(93): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(93): error C2086: 'int 길이가': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(92): note: '길이가' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(97): error C2143: 구문 오류: ';'이(가) 'user-defined literal' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(97): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(97): error C2086: 'int 길이가': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(92): note: '길이가' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(98): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(98): error C2059: 구문 오류: '문자열'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(98): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(98): error C2059: 구문 오류: '}'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\12.포인터와 배열.cpp(99): error C2146: 구문 오류: ')'이(가) 'strArr' 식별자 앞에 없습니다.
+  11.포인터.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(2): error C2146: 구문 오류: ';'이(가) '주소' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(8): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(9): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(9): error C2086: 'int 포인터': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(2): note: '포인터' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(9): error C2146: 구문 오류: ';'이(가) '변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(10): error C2146: 구문 오류: ';'이(가) '주소값을' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(14): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(18): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(19): error C2146: 구문 오류: ';'이(가) 'int형' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(19): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(19): error C2146: 구문 오류: ';'이(가) '변수를' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(21): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(25): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(26): error C2833: 'operator )'은(는) 인식할 수 있는 연산자 또는 형식이 아닙니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(36): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(37): error C2086: 'int *pnum': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(9): note: 'pnum' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(37): error C2065: 'num': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(37): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(37): error C2086: 'int num의': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(10): note: 'num의' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(37): error C2146: 구문 오류: ';'이(가) '주소' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(42): error C2833: 'operator )'은(는) 인식할 수 있는 연산자 또는 형식이 아닙니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(48): error C2086: 'int *pnum': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(9): note: 'pnum' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(48): error C2065: 'num': 선언되지 않은 식별자입니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(48): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(48): error C2086: 'int 포인터': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(2): note: '포인터' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(48): error C2146: 구문 오류: ';'이(가) '변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(49): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(49): error C2146: 구문 오류: ';'이(가) '가르키는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(50): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(50): error C2086: 'int pnum이': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(49): note: 'pnum이' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(50): error C2146: 구문 오류: ';'이(가) '가르키는' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(55): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(55): error C2086: 'int 포인터': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(2): note: '포인터' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(55): error C2146: 구문 오류: ';'이(가) '변수' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(57): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\11.포인터.cpp(57): error C2146: 구문 오류: ';'이(가) '어디를' 식별자 앞에 없습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  10.배열.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(2): error C2146: 구문 오류: ';'이(가) 'array' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(7): error C2143: 구문 오류: ';'이(가) 'user-defined literal' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(9): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(10): error C2143: 구문 오류: ';'이(가) 'user-defined literal' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(10): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(10): error C2086: 'int 길이가': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(7): note: '길이가' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(11): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(11): error C2086: 'int 배열': 재정의
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(1): note: '배열' 선언을 참조하십시오.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(11): error C2146: 구문 오류: ';'이(가) 'arr의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(17): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(21): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(22): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(22): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(23): error C2146: 구문 오류: ';'이(가) '의해' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(24): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(24): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(24): error C2059: 구문 오류: '상수'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(26): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(30): error C2018: '0x40' 문자를 인식할 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(33): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(33): error C2146: 구문 오류: ';'이(가) 'good' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(33): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(34): error C2017: 이스케이프 시퀀스가 잘못되었습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(37): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(37): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(37): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(37): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(37): error C2146: 구문 오류: ';'이(가) '문자가' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(38): error C2059: 구문 오류: ')'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(38): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(38): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(38): error C3927: '->': 후행 반환 형식은 비함수 선언자 뒤에 올 수 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(38): error C3484: 구문 오류: 반환 형식 앞에 '->'가 필요합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(39): error C3613: '->' 후 반환 형식이 없습니다('int'로 간주됨).
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(39): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(39): error C2146: 구문 오류: ';'이(가) '문자열의' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(42): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(43): error C2059: 구문 오류: '->'
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(50): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(50): error C2440: '초기화 중': 'int'에서 'int [8]'(으)로 변환할 수 없습니다.
+  c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\10.배열.cpp(50): note: 참조 또는 배열에 대한 포인터로의 변환은 있지만 배열 형식으로의 변환은 없습니다.
+  1.C언어란.cpp
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(2): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(2): error C2146: 구문 오류: ';'이(가) '플밍' 식별자 앞에 없습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(6): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(13): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(30): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(37): error C2001: 상수에 줄 바꿈 문자가 있습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(37): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(50): error C2015: 상수에 문자가 너무 많습니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(64): error C2014: 전처리기 명령은 공백 아닌 문자로 시작해야 합니다.
+c:\users\paul8\onedrive\바탕 화면\game progamming\c&c++\self study\takeaways\homestudy\1.c언어란.cpp(98): error C2143: 구문 오류: ')'이(가) ';' 앞에 없습니다.
+  코드를 생성하고 있습니다...
